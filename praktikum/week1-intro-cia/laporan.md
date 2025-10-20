@@ -1,16 +1,18 @@
 # Laporan Praktikum Kriptografi
 Minggu ke-: X  
 Topik: [judul praktikum]  
-Nama: [Nama Mahasiswa]  
-NIM: [NIM Mahasiswa]  
-Kelas: [Kelas]  
-
+Nama: Azkiya Fe Sabella
+NIM: 230202802
+Kelas: 5 IKKA
 ---
 
 ## 1. Tujuan
-(Tuliskan tujuan pembelajaran praktikum sesuai modul.)
+Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 
----
+Menjelaskan sejarah dan evolusi kriptografi dari masa klasik hingga modern.
+Menyebutkan prinsip Confidentiality, Integrity, Availability (CIA) dengan benar.
+Menyimpulkan peran kriptografi dalam sistem keamanan informasi modern.
+Menyiapkan repositori GitHub sebagai media kerja praktikum.
 
 ## 2. Dasar Teori
 (Ringkas teori relevan (cukup 2–3 paragraf).  
